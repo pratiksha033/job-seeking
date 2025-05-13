@@ -17,6 +17,6 @@ cloudinary.v2.config({
 });
 
 
-// ✅ Import and start the app
+
 import { startServer } from "./app.js";
-startServer(); // 🟢 This was missing
+startServer(); 
